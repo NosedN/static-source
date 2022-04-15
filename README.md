@@ -1,0 +1,2 @@
+# static-source
+dist directory
